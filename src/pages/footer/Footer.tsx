@@ -6,7 +6,7 @@ import insta from '../../assets/icons/instagram.svg';
 const Footer = () => {
   return (
     <div className="h-80 bg-white flex flex-col text-center items-center">
-      <div className="flex items-center justify-center gap-2 border-b border-yellow-950 border-opacity-10 w-96">
+      <div className="flex items-center justify-center gap-2 border-b border-yellow-950 border-opacity-10 w-96 ">
         <img src={coroa} alt="Coroa Vermelha" className="my-3" />
         <img src={logo} alt="Empire burger" className="my-3" />
       </div>
