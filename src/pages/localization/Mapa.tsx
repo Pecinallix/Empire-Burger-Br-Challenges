@@ -1,6 +1,6 @@
 const Mapa = () => {
   return (
-    <div className="pt-16 bg-opacity-5  bg-yellow-950 backdrop-blur-sm flex flex-col text-center items-center">
+    <div className="pt-16 bg-opacity-5 bg-yellow-950 flex flex-col text-center items-center">
       <h1 className="w-96  text-stone-950 text-opacity-90 text-2xl font-normal font-Lilita uppercase leading-7">
         Onde ficar o nosso castelo
       </h1>

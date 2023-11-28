@@ -7,6 +7,8 @@ import Ofertas from './pages/ofertas/Ofertas';
 import Hora from './pages/ofertas/Hora';
 import Mapa from './pages/localization/Mapa';
 import Footer from './pages/footer/Footer';
+import CardapioText from './pages/cardapio/CardapioText';
+import BannerText from './pages/entrega/BannerText';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Box />
       <Ofertas />
       <Hora />
+      <CardapioText />
+      <BannerText />
       <Mapa />
       <Footer />
     </>

@@ -4,7 +4,10 @@ import sorvete from '../../assets/ofertas/oferta-3.png';
 
 const Ofertas = () => {
   return (
-    <div className="pt-64 bg-yellow-950 bg-opacity-5 grid grid-rows-1 justify-center backdrop-blur-sm lg:pt-32 lg:ml-4 ">
+    <div
+      id="ofertas"
+      className="pt-64 bg-yellow-950 bg-opacity-5 grid grid-rows-1 justify-center backdrop-blur-sm lg:pt-32 lg:ml-4 "
+    >
       <div>
         <h1 className="w-96 text-stone-950 text-opacity-90 text-2xl font-Lilita uppercase leading-7 mb-1 lg:w-[470px] lg:text-3xl">
           Ofertas especiais

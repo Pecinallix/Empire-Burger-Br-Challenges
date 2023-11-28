@@ -12,7 +12,7 @@ const Box = () => {
 
         <div className="ml-4 mb-4 lg:border-r lg:border-black lg:border-b-0 lg:border-opacity-20">
           <h1 className="opacity-80 text-stone-950 text-opacity-90 text-xl font-Lilita uppercase leading-snug ">
-            Arteisanal
+            Artersanal
           </h1>
           <p className="w-44 opacity-60 text-opacity-70 text-stone-950 font-Lato leading-tight mr-4">
             Nossas receitas são feitas com todo cuidado

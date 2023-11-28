@@ -10,10 +10,10 @@ const Menu = () => {
       <div className="hidden lg:flex items-center ml-16">
         <ul className="flex gap-4 ">
           <li className="text-stone-800 font-bold text-lg font-Lato leading-relaxed">
-            Home
+            <a href="#home">Home</a>
           </li>
           <li className="text-stone-600 text-lg font-normal font-Lato leading-relaxed">
-            Promoção
+            <a href="#ofertas">Promoção</a>
           </li>
           <li className="text-stone-600 text-lg font-normal font-Lato leading-relaxed">
             Cardápio

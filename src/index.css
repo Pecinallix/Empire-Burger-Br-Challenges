@@ -13,4 +13,5 @@
   vertical-align: baseline;
   line-height: 1;
   quotes: none;
+  scroll-behavior: smooth;
 }
