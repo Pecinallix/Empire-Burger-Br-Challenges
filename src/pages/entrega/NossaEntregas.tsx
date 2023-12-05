@@ -8,7 +8,7 @@ import Pedido from './Pedido';
 const NossaEntregas = () => {
   return (
     <div>
-      <div className="lg:flex lg:flex-row lg:items-center border-t border-stone-950 border-opacity-10">
+      <div className="lg:flex lg:flex-row lg:items-center">
         <div>
           <img
             src={CardPhone}

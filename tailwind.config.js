@@ -8,6 +8,15 @@ export default {
         'home-banner': "url('./src/assets/banner-mobile.png')",
         'home-banner-int': "url('./src/assets/banner-menu.png')",
       },
+      keyframes: {
+        letreiro: {
+          '0%': { transform: 'translateX(0)' },
+          '50%': { transform: 'translateX(-40%)' },
+        },
+      },
+      animation: {
+        letreiro: 'letreiro 30s linear infinite',
+      },
     },
     fontFamily: {
       Lato: ['Lato', 'sans-serif'],

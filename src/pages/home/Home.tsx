@@ -4,7 +4,7 @@ import HomeText from './HomeText';
 
 const Home = () => {
   return (
-    <div id="home">
+    <div>
       <HomeText />
       <img
         src={bannerHero}

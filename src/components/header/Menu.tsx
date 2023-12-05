@@ -68,7 +68,7 @@ const Menu = () => {
               fill="#fff"
             />
           </svg>
-          <div className="border-l border-black border-opacity-20">
+          <div className="border-l border-red-700 border-opacity-50">
             <button className=" w-28 h-9 px-4 py-1 ml-4 bg-amber-500 rounded justify-start items-center gap-2 inline-flex text-stone-800 font-bold font-Lato leading-relaxed ">
               <img
                 src={whatsapp}

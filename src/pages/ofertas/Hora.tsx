@@ -10,7 +10,6 @@ const Hora = () => {
       const time = new Date().getHours();
       const minutos = new Date().getMinutes();
       const semana = new Date().getDay();
-      console.log(time);
 
       if (time >= 17 && time < 23) {
         if ((semana === 6 || semana === 0) && time >= 18 && minutos >= 30) {

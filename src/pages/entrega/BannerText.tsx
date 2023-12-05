@@ -1,10 +1,12 @@
 import CardWoman from '../../assets/card-woman-eating.png';
+import Depoimentos from '../depoimentos/Depoimentos';
+import Instagram from '../instagram/Instagram';
 
 import NossaEntregas from './NossaEntregas';
 
 const BannerText = () => {
   return (
-    <div className="bg-opacity-5 bg-yellow-950 flex flex-col items-center">
+    <div className="bg-opacity-5 bg-yellow-950 flex flex-col items-center ">
       <div className="lg:flex lg:items-center">
         <img
           src={CardWoman}
@@ -27,6 +29,8 @@ const BannerText = () => {
           </button>
         </div>
       </div>
+      <Depoimentos />
+      <Instagram />
       <NossaEntregas />
     </div>
   );
