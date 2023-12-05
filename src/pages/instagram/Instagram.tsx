@@ -10,11 +10,11 @@ import instaBurguer8 from '../../assets/instagram/burger.png';
 const Instagram = () => {
   return (
     <div className="w-full">
-      <div className="text-center mx-auto mb-4 mt-32 w-96 lg:w-[450px] 2xl:w-[550px]">
-        <h1 className="text-stone-950 text-opacity-90 text-2xl font-Lilita uppercase leading-9 lg:text-3xl">
+      <div className="text-center mx-auto mb-4 mt-32 w-80 lg:w-[450px] 2xl:w-[650px]">
+        <h1 className="text-stone-950 text-opacity-90 text-xl font-Lilita uppercase leading-9 lg:text-3xl">
           Publicações do instagram
         </h1>
-        <p className="text-stone-950 text-opacity-70 font-Lato leading-snug lg:text-lg 2xl:text-2xl">
+        <p className="text-stone-950 text-opacity-70 font-Lato leading-snug">
           Todos os nossos clientes são tratados como rei e rainha, com a nossa
           colunaria artesanal.
         </p>

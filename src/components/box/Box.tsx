@@ -4,7 +4,7 @@ import motoboy from '../../assets/icons/delivery.svg';
 
 const Box = () => {
   return (
-    <div className="w-96 h-80 lg:w-[970px] lg:h-28 bg-white rounded-xl shadow flex flex-wrap justify-center z-10 -mt-36  inset-x-0 mx-auto absolute lg:-mt-14 lg:justify-around lg:items-center">
+    <div className="w-80 h-80 bg-white rounded-xl shadow flex flex-wrap justify-center z-10 -mt-36  inset-x-0 mx-auto absolute sm:w-96 lg:w-[970px] lg:h-28 lg:-mt-14 lg:justify-around lg:items-center ">
       <div className="border-b border-yellow-950 border-opacity-10 flex mt-6 lg:border-b-0">
         <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center">
           <img className="w-8 h-8 " src={burger} alt="" />

@@ -21,9 +21,9 @@ const Hora = () => {
   }, []);
 
   return (
-    <div className="pt-16 bg-opacity-5  bg-yellow-950 backdrop-blur-sm lg:flex lg:items-center lg:pl-4 lg:justify-center lg:pb-16">
+    <div className="pt-16 bg-opacity-5 bg-yellow-950 backdrop-blur-sm lg:flex lg:items-center lg:pl-4 lg:justify-center lg:pb-16">
       <div
-        className={`mx-auto w-96 h-28 rounded-xl flex mt-9 items-center justify-center lg:mx-0 lg:w-[570px] lg:h-32 lg:justify-start ${funcionamento}`}
+        className={`mx-auto w-[350px] sm:w-96 h-28 rounded-xl flex mt-9 items-center justify-center lg:mx-0 lg:w-[570px] lg:h-32 lg:justify-start ${funcionamento}`}
       >
         <div className="w-20 h-20 bg-stone-950 bg-opacity-20 rounded-full flex items-center justify-center lg:w-24 lg:h-24 lg:ml-6">
           <img src={hora} alt="" className=" w-12 h-12 lg:w-16 lg:h-16" />

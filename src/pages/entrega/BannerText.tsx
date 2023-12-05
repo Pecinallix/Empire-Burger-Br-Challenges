@@ -11,7 +11,7 @@ const BannerText = () => {
         <img
           src={CardWoman}
           alt="Mulher comendo Hambúrguer"
-          className="w-96 pt-10 lg:mb-32"
+          className="sm:w-96 w-80 pt-10 lg:mb-32"
         />
         <div className="lg:ml-8">
           <h1 className="w-80 text-stone-950 text-opacity-90 text-2xl font-Lilita uppercase leading-7 mb-2 mt-4 lg:mt-16">

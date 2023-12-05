@@ -1,7 +1,7 @@
 import Phone from '../../assets/icons/phone.svg';
 const Pedido = () => {
   return (
-    <div className="w-96 h-72 bg-red-600 rounded-xl flex flex-col items-center justify-center lg:w-[900px] lg:h-28 lg:flex-row">
+    <div className="sm:w-96 w-80 h-72 bg-red-600 rounded-xl flex flex-col items-center justify-center lg:w-[900px] lg:h-28 lg:flex-row">
       <div className="w-24 h-24 left-0 bg-stone-950 bg-opacity-20 rounded-full flex justify-center items-center mb-2 lg:mx-2 lg:w-32 lg:h-20 ">
         <img src={Phone} alt="Celular" className="lg:w-11 lg:h-11" />
       </div>

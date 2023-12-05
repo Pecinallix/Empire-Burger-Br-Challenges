@@ -13,7 +13,7 @@ const NossaEntregas = () => {
           <img
             src={CardPhone}
             alt="Hambúrguer saindo de um celular"
-            className=" pt-16 w-96 lg:mr-8"
+            className=" pt-16 w-80 sm:w-96 lg:mr-8"
           />
         </div>
         <div className="mt-10">
@@ -21,7 +21,7 @@ const NossaEntregas = () => {
             Nossas entregas
           </h1>
 
-          <div className="w-96 h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
+          <div className="sm:w-96  w-[340px] h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
             <span className="w-16 h-16 bg-orange-100 rounded-full flex justify-center items-center">
               <img src={Fone} alt="Whatsapp" className="w-8 h-8" />
             </span>
@@ -35,7 +35,7 @@ const NossaEntregas = () => {
             </div>
           </div>
 
-          <div className="w-96 h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
+          <div className="sm:w-96  w-[340px] h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
             <span className="w-16 h-16 bg-orange-100 rounded-full flex justify-center items-center">
               <img src={Entrega} alt="Whatsapp" className="w-8 h-8" />
             </span>
@@ -49,7 +49,7 @@ const NossaEntregas = () => {
             </div>
           </div>
 
-          <div className="w-96 h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
+          <div className="sm:w-96  w-[340px] h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-2 lg:w-[450px] lg:justify-start lg:pl-4">
             <span className="w-16 h-16 bg-orange-100 rounded-full flex justify-center items-center">
               <img src={Sorvete} alt="Whatsapp" className="w-8 h-8" />
             </span>
@@ -63,7 +63,7 @@ const NossaEntregas = () => {
             </div>
           </div>
 
-          <div className="w-96 h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-16 lg:w-[450px] lg:justify-start lg:pl-4">
+          <div className="sm:w-96  w-[340px] h-24 bg-white bg-opacity-70 rounded-xl shadow flex items-center justify-center mb-16 lg:w-[450px] lg:justify-start lg:pl-4">
             <span className="w-16 h-16 bg-orange-100 rounded-full flex justify-center items-center">
               <img src={Ifood} alt="Whatsapp" className="w-8 h-8" />
             </span>
