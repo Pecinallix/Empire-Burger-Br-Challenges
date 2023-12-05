@@ -6,8 +6,8 @@
     - [Nível Fácil](#nível-fácil)
     - [Nível Médio](#nível-médio)
     - [Nível Difícil](#nível-difícil)
-    - [Vídeos](#Vídeo)
-    - [Projeto](#-Veja-como-está-ficando-o-projeto-aqui)
+    - [Vídeos](#vídeos-desktopmobile)
+    - [Projeto](#-veja-como-está-ficando-o-projeto-aqui-empire-burger)
 
 ## 💻 Visão Geral do Projeto
 
@@ -83,8 +83,12 @@ Para facilitar a codificação do projeto foi usado um protótipo do Figma como 
 
 ### Vídeos Desktop/Mobile
 
-## 💻 Veja como está ficando o projeto aqui: [Empire Burger]()
+<h1>Desktop Version</h1>
 
-```# Empire-Burger-Br-Challenges
+https://github.com/Pecinallix/Empire-Burger-Br-Challenges/assets/104167803/4f989318-9960-42c0-b60b-3fcc5d12078a
 
-```
+<h1>Mobile Version</h1>
+
+https://github.com/Pecinallix/Empire-Burger-Br-Challenges/assets/104167803/44b5b7db-8970-43eb-8aff-5b83d9fc8309
+
+## 💻 Veja como está ficando o projeto aqui: [Empire Burger](https://pecinallix.github.io/Empire-Burger-Br-Challenges/)
