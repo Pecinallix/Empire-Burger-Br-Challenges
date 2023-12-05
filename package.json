@@ -2,6 +2,7 @@
   "name": "empire-burger",
   "private": true,
   "version": "0.0.0",
+  "homepage": "Empire-Burger-Br-Challenges/",
   "type": "module",
   "scripts": {
     "dev": "vite",
