@@ -18,7 +18,7 @@ const Pedido = () => {
           , com temática medieval!
         </p>
       </div>
-      <button className="w-80 h-10 px-4 py-2 bg-orange-100 rounded justify-center items-center gap-2.5 inline-flex text-red-600 text-base font-black font-Lato uppercase leading-snug lg:mr-9">
+      <button className="w-72 h-10 px-4 py-2 bg-orange-100 rounded justify-center items-center gap-2.5 inline-flex text-red-600 text-base font-black font-Lato uppercase leading-snug lg:mr-9">
         Solicitar Pedido
       </button>
     </div>

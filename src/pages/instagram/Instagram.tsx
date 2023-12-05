@@ -19,7 +19,7 @@ const Instagram = () => {
           colunaria artesanal.
         </p>
       </div>
-      <div className="flex w-[100vw] h-[15vh] lg:h-[20vh] 2xl:h-[30vh] justify-center overflow-x-hidden bg-black bg-opacity-80 ">
+      <div className="flex w-full h-[15vh] lg:h-[20vh] 2xl:h-[30vh] justify-center overflow-x-hidden bg-black bg-opacity-80 ">
         <img src={instaBurguer1} alt="Hambúrguer" />
         <img src={instaBurguer2} alt="Hambúrguer" />
         <img src={instaBurguer3} alt="Hambúrguer" />
